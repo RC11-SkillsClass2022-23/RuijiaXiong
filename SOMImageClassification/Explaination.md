@@ -3,4 +3,6 @@ Here I Scraped 618 photos about the stairs in Istanbul, and used SOM to classify
 ![image](https://github.com/RC11-SkillsClass2022-23/RuijiaXiong/assets/118354081/06bdb601-852b-46c9-88ab-a1e497f62d18)
 ![image](https://github.com/RC11-SkillsClass2022-23/RuijiaXiong/assets/118354081/8f949e7c-a91c-427e-a6a7-2707dcc8418b)
 
-This allowed me to categorize the staircase photos further through unsupervised learning.
+This allowed me to Classify the stair photos further through unsupervised learning.
+Here is one of the clssified cluster:
+![image](https://github.com/RC11-SkillsClass2022-23/RuijiaXiong/assets/118354081/83225524-fa47-4b44-8c54-da21ddd9d3bd)
